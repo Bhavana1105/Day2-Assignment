@@ -1,0 +1,28 @@
+.original{
+    color:blue;
+}
+.discount{
+    color:red;
+}
+.brand{
+    color:green;
+}
+.title{
+    color:blueviolet;
+}
+span{
+    text-decoration:line-through;
+}
+img{
+    width:130px;
+    height:130px;
+    padding:2px;
+}
+div{
+    text-align:center;
+    width:400px;
+    margin:5px;
+    float:left;
+    border:2px solid grey;
+    border-radius:20px;
+}
